@@ -1,7 +1,7 @@
 status = "";
 image = "";
 function preload(){
-    image = loadImage("Bedroom.jpg");
+    image = loadImage("LivingRoom.jpg");
 }
 function setup(){
     canvas = createCanvas(640, 420);
